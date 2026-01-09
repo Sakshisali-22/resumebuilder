@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+.hero-section {
+  padding: 80px 0;
+  background: linear-gradient(
+    120deg,
+    #f8fafc,
+    #e8f6f0,
+    #e0f2ff
+  );
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #2d3436;
+}
+
+.hero-title span {
+  color: #5b4bdb;
+}
+
+.hero-buttons {
+  margin-top: 30px;
+}
+
+.rating {
+  font-size: 1rem;
+  color: #2d3436;
+}
+
+.hero-subtext {
+  font-size: 1.4rem;
+  color: #2d3436;
+  max-width: 600px;
+}
+
